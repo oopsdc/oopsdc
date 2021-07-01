@@ -10,6 +10,4 @@ Here are some ideas to get you started:
  <br>👯 I’m looking to collaborate on ...</br>
  <br>🤔 I’m looking for help with ...</br>
  <br>💬 Ask me about anything(no answer...</br>
- <br>📫 How to reach me: ...</br>
- <br>😄 Pronouns: ...</br>
- <br>⚡ Fun fact: ...</br>
+ <br>📫 Welcome to my blog: http://oopsdc.tk/</br>
